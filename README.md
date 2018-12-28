@@ -1,0 +1,2 @@
+# DendroidV2
+Most of you who've developed rats might have heard about Dendroid. Formerly known as the world's best http Android rat. Now due to Android's new access permissions, it isn't functioning. So I've started this repo to bring Dendroid back to life. Here are the files with the upload guide. But even after a succesful upoad and apk setup, the bot won't show up on the panel. That's the issue I was talking about. Let's make Dendroid great again together.
